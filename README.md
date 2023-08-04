@@ -10,7 +10,7 @@
 
   <h1 align="center">Calculadora Lógica</h1>
 
- > Calculadora lógica com tabela da verdade, feito em HTML, CSS e JavaScript.
+ > Calculadora lógica com tabela verdade, feito em HTML, CSS e JavaScript.
 
   <a href="https://github.com/p1nheiros/calculadora-logica"><strong>➥ Visualizar Projeto</strong></a>
 
